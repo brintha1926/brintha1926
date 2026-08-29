@@ -1,118 +1,238 @@
-<!--
-  BRINTHA.OS · Security Systems Console
-  Inspired by the retro-terminal structure of github.com/wthislifehuh,
-  rewritten and personalised for github.com/brintha1926.
--->
+<!-- BRINTHA.OS · Automation, AI & Cybersecurity · pink/cream edition -->
 
 <a href="https://github.com/brintha1926">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A18,55:0F766E,100:2DD4BF&height=210&section=header&text=BRINTHA.OS&fontColor=ECFEFF&fontSize=66&fontAlignY=40&desc=CYBERSECURITY%20%E2%80%A2%20AI%20%E2%80%A2%20FULL-STACK%20SYSTEMS&descAlignY=60&descSize=16&descAlignX=50" width="100%" alt="BRINTHA.OS" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1B26,48:B85C83,100:F3B7CE&height=230&section=header&text=BRINTHA.OS&fontColor=FFF4E6&fontSize=68&fontAlignY=39&desc=AUTOMATION%20%E2%80%A2%20AI%20%E2%80%A2%20CYBERSECURITY&descAlignY=59&descSize=17&descAlignX=50" width="100%" alt="BRINTHA.OS — Brintha Subramoney" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUG_2026-5E7470?style=flat-square&labelColor=071A18" alt="date" />
-  <img src="https://img.shields.io/badge/CYBERSECURITY-2DD4BF?style=flat-square&labelColor=071A18" alt="cybersecurity" />
-  <img src="https://img.shields.io/badge/MACHINE_LEARNING-2DD4BF?style=flat-square&labelColor=071A18" alt="machine learning" />
-  <img src="https://img.shields.io/badge/%E2%97%8F_BUILDING-5EEAD4?style=flat-square&labelColor=071A18" alt="building" />
-  <a href="https://bambivault.com"><img src="https://img.shields.io/badge/%E2%96%B8_bambivault.com-071A18?style=flat-square&labelColor=2DD4BF&color=071A18" alt="BambiVault" /></a>
+  <img src="https://img.shields.io/badge/FINAL_YEAR_IT-FFF4E6?style=flat-square&labelColor=2B1B26&color=F6D9E4" alt="Final-year IT student" />
+  <img src="https://img.shields.io/badge/AUTOMATION-D96C9D?style=flat-square&labelColor=2B1B26" alt="Automation" />
+  <img src="https://img.shields.io/badge/AI_%26_ML-D96C9D?style=flat-square&labelColor=2B1B26" alt="AI and machine learning" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-D96C9D?style=flat-square&labelColor=2B1B26" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/%E2%97%8F_BUILDING-F3B7CE?style=flat-square&labelColor=2B1B26" alt="Building" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/brintha1926">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&duration=2600&pause=900&color=2DD4BF&background=071A1800&center=true&vCenter=true&width=760&lines=%3E+booting+BRINTHA.OS+...;%3E+building+secure+systems+with+AI;%3E+turning+security+ideas+into+working+software;%3E+system+ready+%E2%80%94+welcome+%E2%96%B8" alt="Animated introduction" />
+  <a href="https://bambivault.com">
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=21&duration=2700&pause=850&color=D96C9D&background=2B1B2600&center=true&vCenter=true&width=780&lines=%3E+hello%2C+I%27m+Brintha+Subramoney+%F0%9F%8C%B8;%3E+I+automate+work%2C+secure+systems+%26+build+with+AI;%3E+from+n8n+workflows+to+production+ML+applications;%3E+currently+building+BambiVault+%E2%96%B8" alt="Animated introduction" />
   </a>
 </p>
 
-### `↑ WHOAMI` &nbsp; ──────────────────────────────────────────────
+## `01 // ABOUT ME`
 
 ```bash
 brintha@os:~$ whoami
-> Brintha · Software Developer
+> Brintha Subramoney
+> Final-year Bachelor of Information Technology (Hons)
+> Communication & Networking · Universiti Tunku Abdul Rahman
 
-brintha@os:~$ cat ./about.txt
-> I build security-focused web applications and practical
-> machine-learning systems — from experimentation to deployment.
-> Currently developing BambiVault, a password-security assessment
-> and encrypted credential-management platform.
+brintha@os:~$ cat ./profile.txt
+> I turn operational problems into practical automations and secure systems.
+> My work spans production n8n workflows, Azure AI, Microsoft 365,
+> infrastructure monitoring, cybersecurity, and full-stack ML applications.
 
-brintha@os:~$ env | grep -E 'FOCUS|MISSION'
-FOCUS=Cybersecurity · Machine Learning · Full-Stack Development
-MISSION=Build technology that makes digital security clearer and safer
+brintha@os:~$ env | grep -E 'FOCUS|STATUS|BASE'
+FOCUS=Automation · AI/ML · Cybersecurity · Infrastructure
+STATUS=Final-year student · graduating September 2026
+BASE=Malaysia 🇲🇾
 
 brintha@os:~$ open https://bambivault.com
 ```
 
-### `↑ AT A GLANCE` &nbsp; ──────────────────────────────────────────
+<p align="center">
+  <img src="https://img.shields.io/badge/5_PRODUCTION-n8n_WORKFLOWS-D96C9D?style=for-the-badge&labelColor=2B1B26" alt="Five production n8n workflows" />
+  <img src="https://img.shields.io/badge/20%2B_DEVICES-PRTG_MONITORING-F3B7CE?style=for-the-badge&labelColor=2B1B26&color=F6D9E4" alt="More than 20 devices monitored" />
+  <img src="https://img.shields.io/badge/14.3M_PASSWORDS-ML_PIPELINE-D96C9D?style=for-the-badge&labelColor=2B1B26" alt="14.3 million password ML pipeline" />
+  <img src="https://img.shields.io/badge/5_VENDORS-TECH_EVALUATION-F3B7CE?style=for-the-badge&labelColor=2B1B26&color=F6D9E4" alt="Five-vendor technical evaluation" />
+</p>
 
-| `ROLE` | `DOMAIN` | `FOCUS` | `STATUS` |
-|:---|:---|:---|:---|
-| **Software Developer** | **Cybersecurity** | **AI · ML · Web Security** | **● Building** |
+---
 
-### `// FEATURED SYSTEM` &nbsp; ──────────────────────────────────────
-
-<a href="https://github.com/brintha1926/bambivault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brintha1926&repo=bambivault&hide_border=true&bg_color=071A18&title_color=2DD4BF&text_color=B7D8D3&icon_color=5EEAD4" alt="BambiVault repository" />
-</a>
-
-> **BambiVault** combines machine-learning password assessment, privacy-preserving breach checks, encrypted credential storage, multi-factor authentication, and security analytics in one production platform.
-
-### `// STACK` &nbsp; ───────────────────────────────────────────────
-
-**`▸ LANGUAGES & AI`**
-
-![Python](https://img.shields.io/badge/Python-2DD4BF?style=flat-square&logo=python&logoColor=ECFEFF&labelColor=071A18)
-![JavaScript](https://img.shields.io/badge/JavaScript-2DD4BF?style=flat-square&logo=javascript&logoColor=ECFEFF&labelColor=071A18)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-2DD4BF?style=flat-square&logo=scikitlearn&logoColor=ECFEFF&labelColor=071A18)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-2DD4BF?style=flat-square&logo=scikitlearn&logoColor=ECFEFF&labelColor=071A18)
-![Pandas](https://img.shields.io/badge/Pandas-2DD4BF?style=flat-square&logo=pandas&logoColor=ECFEFF&labelColor=071A18)
-
-**`▸ WEB & DATA`**
-
-![Flask](https://img.shields.io/badge/Flask-0F766E?style=flat-square&logo=flask&logoColor=ECFEFF&labelColor=071A18)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F766E?style=flat-square&logo=tailwindcss&logoColor=ECFEFF&labelColor=071A18)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-0F766E?style=flat-square&logo=alpinedotjs&logoColor=ECFEFF&labelColor=071A18)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F766E?style=flat-square&logo=postgresql&logoColor=ECFEFF&labelColor=071A18)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0F766E?style=flat-square&logo=sqlalchemy&logoColor=ECFEFF&labelColor=071A18)
-
-**`▸ SECURITY & DELIVERY`**
-
-![Cryptography](https://img.shields.io/badge/Cryptography-5E7470?style=flat-square&logo=letsencrypt&logoColor=ECFEFF&labelColor=071A18)
-![Docker](https://img.shields.io/badge/Docker-5E7470?style=flat-square&logo=docker&logoColor=ECFEFF&labelColor=071A18)
-![Nginx](https://img.shields.io/badge/Nginx-5E7470?style=flat-square&logo=nginx&logoColor=ECFEFF&labelColor=071A18)
-![Linux](https://img.shields.io/badge/Linux-5E7470?style=flat-square&logo=linux&logoColor=ECFEFF&labelColor=071A18)
-![Git](https://img.shields.io/badge/Git-5E7470?style=flat-square&logo=git&logoColor=ECFEFF&labelColor=071A18)
-![pytest](https://img.shields.io/badge/pytest-5E7470?style=flat-square&logo=pytest&logoColor=ECFEFF&labelColor=071A18)
-
-### `▸ SYSTEM STATS` &nbsp; ──────────────────────────────────────────
+## `02 // FEATURED PROJECT`
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brintha1926&show_icons=true&count_private=true&hide_border=true&bg_color=071A18&title_color=2DD4BF&text_color=B7D8D3&icon_color=5EEAD4&ring_color=2DD4BF" alt="Brintha's GitHub stats" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brintha1926&layout=compact&hide_border=true&bg_color=071A18&title_color=2DD4BF&text_color=B7D8D3&hide=css,html" alt="Brintha's top languages" />
+  <a href="https://github.com/brintha1926/bambivault">
+    <img width="56%" src="https://github-readme-stats.vercel.app/api/pin/?username=brintha1926&repo=bambivault&hide_border=true&bg_color=2B1B26&title_color=F3B7CE&text_color=FFF4E6&icon_color=D96C9D" alt="BambiVault repository" />
+  </a>
+</p>
+
+### 🌸 [BambiVault](https://bambivault.com) — Password Security & Encrypted Vault Platform
+
+My final-year project is a production full-stack platform for evaluating password behaviour and security awareness among university students.
+
+- Engineered a **10-feature extraction pipeline** covering Shannon entropy, character classes, keyboard walks, substitutions, and behavioural patterns.
+- Trained an experimental **Random Forest classifier on 14.3 million real-world passwords**, while identifying and correcting circular label leakage that had produced misleading 99.99% accuracy.
+- Integrated **Have I Been Pwned k-anonymity** breach checks, local pattern intelligence, caching, and rate limiting without transmitting plaintext passwords.
+- Built an encrypted credential vault, TOTP authentication, recovery controls, anonymised analytics, protected exports, and a hardened production deployment.
+
+`Python` · `Flask` · `scikit-learn` · `pandas` · `PostgreSQL` · `SQLAlchemy` · `Tailwind CSS` · `JavaScript` · `Nginx`
+
+<p align="center">
+  <a href="https://bambivault.com"><img src="https://img.shields.io/badge/LIVE_DEMO-bambivault.com-D96C9D?style=flat-square&logo=googlechrome&logoColor=FFF4E6&labelColor=2B1B26" alt="BambiVault live demo" /></a>
+  <a href="https://github.com/brintha1926/bambivault"><img src="https://img.shields.io/badge/SOURCE-GITHUB-F6D9E4?style=flat-square&logo=github&logoColor=2B1B26&labelColor=FFF4E6" alt="BambiVault source code" /></a>
+</p>
+
+---
+
+<details open>
+<summary><h2><code>03 // AUTOMATION & SECURITY WORK</code></h2></summary>
+
+### `▸ Email Threat & Quarantine Auto-Notifier`
+
+Built a production n8n workflow integrating Microsoft Outlook, Azure OpenAI, and a SharePoint-hosted watchlist to classify emails as safe, suspicious, or malicious and notify the IT team in real time.
+
+### `▸ AI-Powered Wazuh Security Alerts`
+
+Developed production n8n workflows for O365 GAP file-access monitoring and real-time abnormal security thresholds, connected to Wazuh SIEM and automated infrastructure-team notifications.
+
+### `▸ Website Uptime & SSL Expiry Monitor`
+
+Engineered automated monitoring across web services with proactive alerts for downtime and SSL certificate-expiry windows to reduce avoidable service disruption.
+
+### `▸ Enterprise Infrastructure & Governance`
+
+Deployed PRTG monitoring across VLAN/DMZ segments for 20+ devices and SAP service uptime; supported AD-to-Juniper migration and VLAN trunking; authored a Microsoft Purview administration guide adopted as the department standard.
+
+</details>
+
+---
+
+<details open>
+<summary><h2><code>04 // SKILLS & STACK</code></h2></summary>
+
+### 🌷 Automation & AI
+
+![n8n](https://img.shields.io/badge/n8n-2B1B26?style=flat-square&logo=n8n&logoColor=D96C9D&labelColor=FFF4E6)
+![Azure AI](https://img.shields.io/badge/Azure_AI-2B1B26?style=flat-square&logo=microsoftazure&logoColor=D96C9D&labelColor=FFF4E6)
+![Python](https://img.shields.io/badge/Python-2B1B26?style=flat-square&logo=python&logoColor=D96C9D&labelColor=FFF4E6)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2B1B26?style=flat-square&logo=scikitlearn&logoColor=D96C9D&labelColor=FFF4E6)
+![pandas](https://img.shields.io/badge/pandas-2B1B26?style=flat-square&logo=pandas&logoColor=D96C9D&labelColor=FFF4E6)
+![Power Platform](https://img.shields.io/badge/Power_Platform-2B1B26?style=flat-square&logo=powerautomate&logoColor=D96C9D&labelColor=FFF4E6)
+
+### 🌸 Cybersecurity & Networking
+
+![Wazuh](https://img.shields.io/badge/Wazuh-2B1B26?style=flat-square&logo=wazuh&logoColor=D96C9D&labelColor=FFF4E6)
+![PRTG](https://img.shields.io/badge/PRTG-2B1B26?style=flat-square&logo=prometheus&logoColor=D96C9D&labelColor=FFF4E6)
+![Cisco](https://img.shields.io/badge/Cisco_Networking-2B1B26?style=flat-square&logo=cisco&logoColor=D96C9D&labelColor=FFF4E6)
+![HIBP](https://img.shields.io/badge/HIBP_k--Anonymity-2B1B26?style=flat-square&logo=hackthebox&logoColor=D96C9D&labelColor=FFF4E6)
+![Linux](https://img.shields.io/badge/Linux-2B1B26?style=flat-square&logo=linux&logoColor=D96C9D&labelColor=FFF4E6)
+![Nginx](https://img.shields.io/badge/Nginx-2B1B26?style=flat-square&logo=nginx&logoColor=D96C9D&labelColor=FFF4E6)
+
+### 🎀 Enterprise, Web & Data
+
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-2B1B26?style=flat-square&logo=microsoft365&logoColor=D96C9D&labelColor=FFF4E6)
+![SharePoint](https://img.shields.io/badge/SharePoint-2B1B26?style=flat-square&logo=microsoftsharepoint&logoColor=D96C9D&labelColor=FFF4E6)
+![Entra ID](https://img.shields.io/badge/Entra_ID-2B1B26?style=flat-square&logo=microsoftazure&logoColor=D96C9D&labelColor=FFF4E6)
+![Flask](https://img.shields.io/badge/Flask-2B1B26?style=flat-square&logo=flask&logoColor=D96C9D&labelColor=FFF4E6)
+![JavaScript](https://img.shields.io/badge/JavaScript-2B1B26?style=flat-square&logo=javascript&logoColor=D96C9D&labelColor=FFF4E6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2B1B26?style=flat-square&logo=postgresql&logoColor=D96C9D&labelColor=FFF4E6)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2B1B26?style=flat-square&logo=sqlalchemy&logoColor=D96C9D&labelColor=FFF4E6)
+![Git](https://img.shields.io/badge/Git-2B1B26?style=flat-square&logo=git&logoColor=D96C9D&labelColor=FFF4E6)
+
+### `Languages`
+
+`Python` · `JavaScript` · `C++` · `Java` · `C#` · `SQL` · `Bash`
+
+</details>
+
+---
+
+<details>
+<summary><h2><code>05 // EXPERIENCE & EDUCATION</code></h2></summary>
+
+### Kuala Lumpur Kepong Berhad (KLK) · IT Infrastructure Intern
+
+`October 2025 — January 2026`
+
+- Delivered five production n8n workflows using Azure AI, Wazuh SIEM, SharePoint, Entra ID, and Microsoft Outlook.
+- Translated business needs into comparison criteria for VAPT and SharePoint evaluations across five vendors, helping shape the procurement decision.
+- Administered Exchange, Teams, SharePoint, and Purview and authored department-wide governance documentation.
+- Implemented network and service monitoring and supported hands-on infrastructure delivery.
+
+### Starex Hardware Sdn Bhd · IT Desk Assistant
+
+`June 2023 — September 2023`
+
+- Managed customer, inventory, and sales records while improving recurring data accuracy checks.
+
+### Universiti Tunku Abdul Rahman (UTAR)
+
+**Bachelor of Information Technology (Honours), Communication & Networking**  
+`CGPA 3.5 · Expected graduation: September 2026`
+
+</details>
+
+---
+
+<details>
+<summary><h2><code>06 // CERTIFICATIONS & RECOGNITION</code></h2></summary>
+
+### Cisco Networking Academy
+
+- CCNA: Introduction to Networks
+- CCNA: Switching, Routing, and Wireless Essentials
+- CCNA: Enterprise Networking, Security, and Automation
+- CCNA 200-301 exam preparation in progress
+
+### Academic Recognition
+
+| Recognition | Why it matters |
+|:---|:---|
+| **President’s List** | Achieved a 4.0 semester GPA |
+| **Dean’s List** | Achieved a 3.67 semester GPA |
+| **MSEF Siyuan Full Scholarship** | Awarded for sustained academic performance |
+| **China Ambassador Scholarship** | Awarded for academic excellence and leadership |
+| **UTAR Ambassador** | Selected to represent the university at official events |
+
+### Community & Leadership
+
+- Student emcee and committee member for UTAR-FICT’s intervarsity **The Amazing Cyberhunt** CTF event.
+- Volunteer coding instructor for rural SJK(T) students in Perak.
+- Census Officer for the National Unity Census and SPM Examination Invigilator.
+
+</details>
+
+---
+
+## `07 // MORE PROJECTS`
+
+<p align="center">
+  <a href="https://github.com/brintha1926/italian-food"><img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=brintha1926&repo=italian-food&hide_border=true&bg_color=2B1B26&title_color=F3B7CE&text_color=FFF4E6&icon_color=D96C9D" alt="Italian Food repository" /></a>
+  <a href="https://github.com/brintha1926/GROUP9"><img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=brintha1926&repo=GROUP9&hide_border=true&bg_color=2B1B26&title_color=F3B7CE&text_color=FFF4E6&icon_color=D96C9D" alt="GROUP9 repository" /></a>
+</p>
+
+---
+
+<details open>
+<summary><h2><code>08 // GITHUB ACTIVITY</code></h2></summary>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brintha1926&show_icons=true&count_private=true&hide_border=true&bg_color=2B1B26&title_color=F3B7CE&text_color=FFF4E6&icon_color=D96C9D&ring_color=D96C9D" alt="Brintha's GitHub stats" />
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brintha1926&layout=compact&hide_border=true&bg_color=2B1B26&title_color=F3B7CE&text_color=FFF4E6&hide=css,html" alt="Brintha's top languages" />
+</p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=brintha1926&hide_border=true&background=2B1B26&stroke=6F455D&ring=D96C9D&fire=F3B7CE&currStreakLabel=F3B7CE&sideLabels=FFF4E6&dates=CFAFBE&currStreakNum=FFF4E6&sideNums=FFF4E6&dayLabels=CFAFBE" alt="GitHub contribution streak" /></p>
+
+<p align="center"><img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=brintha1926&hide_border=true&bg_color=2B1B26&title_color=F3B7CE&color=FFF4E6&line=D96C9D&point=F3B7CE&area=true&area_color=B85C83" alt="GitHub activity graph" /></p>
+
+</details>
+
+---
+
+## `09 // LET'S CONNECT`
+
+<p align="center">
+  <a href="https://bambivault.com"><img src="https://img.shields.io/badge/BAMBIVAULT-LIVE_PROJECT-D96C9D?style=for-the-badge&logo=googlechrome&logoColor=FFF4E6&labelColor=2B1B26" alt="BambiVault" /></a>
+  <a href="https://www.linkedin.com/in/brintha-subra/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-F6D9E4?style=for-the-badge&logo=linkedin&logoColor=2B1B26&labelColor=FFF4E6" alt="LinkedIn" /></a>
+  <a href="https://github.com/brintha1926"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-D96C9D?style=for-the-badge&logo=github&logoColor=FFF4E6&labelColor=2B1B26" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=brintha1926&hide_border=true&background=071A18&stroke=153D38&ring=2DD4BF&fire=5EEAD4&currStreakLabel=2DD4BF&sideLabels=B7D8D3&dates=5E7470&currStreakNum=ECFEFF&sideNums=ECFEFF&dayLabels=B7D8D3" alt="GitHub contribution streak" />
+  <img src="https://komarev.com/ghpvc/?username=brintha1926&label=PROFILE%20VIEWS&color=D96C9D&style=flat-square&labelColor=2B1B26" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/brintha1926?label=FOLLOWERS&style=flat-square&color=F3B7CE&labelColor=2B1B26&logo=github" alt="GitHub followers" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brintha1926&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" />
-</p>
+<p align="center"><sub><code>BRINTHA.OS</code> · where automation meets security, with a little pink 🌸</sub></p>
 
-### `▸ ESTABLISH CONNECTION` &nbsp; ──────────────────────────────────
-
-<p align="center">
-  <a href="https://bambivault.com"><img src="https://img.shields.io/badge/LIVE_PROJECT-2DD4BF?style=flat-square&logo=googlechrome&logoColor=071A18&labelColor=071A18&color=2DD4BF" alt="BambiVault live project" /></a>
-  <a href="https://github.com/brintha1926"><img src="https://img.shields.io/badge/GITHUB-071A18?style=flat-square&logo=github&logoColor=ECFEFF&labelColor=071A18&color=153D38" alt="GitHub profile" /></a>
-</p>
-
-<br />
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brintha1926&label=PROFILE%20VIEWS&color=2DD4BF&style=flat-square&labelColor=071A18" alt="Profile views" />
-  <a href="https://github.com/brintha1926"><img src="https://img.shields.io/github/followers/brintha1926?label=FOLLOW&style=flat-square&color=2DD4BF&labelColor=071A18&logo=github" alt="GitHub followers" /></a>
-</p>
-
-<p align="center">
-  <sub><code>BRINTHA.OS</code> · designed and maintained by Brintha · building safer digital experiences ▸</sub>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,45:0F766E,100:071A18&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3B7CE,48:B85C83,100:2B1B26&height=125&section=footer" width="100%" alt="Pink and cream footer" />
 
