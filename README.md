@@ -52,7 +52,7 @@ brintha@os:~$ open https://bambivault.com
 
 <p align="center">
   <a href="https://github.com/brintha1926/bambivault">
-    <img width="56%" src="https://github-readme-stats.vercel.app/api/pin/?username=brintha1926&repo=bambivault&hide_border=true&bg_color=2B1B26&title_color=F3B7CE&text_color=FFF4E6&icon_color=D96C9D" alt="BambiVault repository" />
+    <img src="https://img.shields.io/badge/FEATURED_PROJECT-BAMBIVAULT-D96C9D?style=for-the-badge&logo=python&logoColor=FFF4E6&labelColor=2B1B26" alt="BambiVault featured project" />
   </a>
 </p>
 
@@ -196,10 +196,11 @@ Deployed PRTG monitoring across VLAN/DMZ segments for 20+ devices and SAP servic
 
 ## `07 // MORE PROJECTS`
 
-<p align="center">
-  <a href="https://github.com/brintha1926/italian-food"><img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=brintha1926&repo=italian-food&hide_border=true&bg_color=2B1B26&title_color=F3B7CE&text_color=FFF4E6&icon_color=D96C9D" alt="Italian Food repository" /></a>
-  <a href="https://github.com/brintha1926/GROUP9"><img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=brintha1926&repo=GROUP9&hide_border=true&bg_color=2B1B26&title_color=F3B7CE&text_color=FFF4E6&icon_color=D96C9D" alt="GROUP9 repository" /></a>
-</p>
+| Repository | Snapshot | Explore |
+|:---|:---|:---:|
+| **Italian Food** | Public web project | [View source](https://github.com/brintha1926/italian-food) |
+| **GROUP9** | Collaborative academic repository | [View source](https://github.com/brintha1926/GROUP9) |
+| **Personal Site** | GitHub Pages foundation | [View source](https://github.com/brintha1926/brintha1926.github.io) |
 
 ---
 
@@ -207,13 +208,19 @@ Deployed PRTG monitoring across VLAN/DMZ segments for 20+ devices and SAP servic
 <summary><h2><code>08 // GITHUB ACTIVITY</code></h2></summary>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brintha1926&show_icons=true&count_private=true&hide_border=true&bg_color=2B1B26&title_color=F3B7CE&text_color=FFF4E6&icon_color=D96C9D&ring_color=D96C9D" alt="Brintha's GitHub stats" />
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brintha1926&layout=compact&hide_border=true&bg_color=2B1B26&title_color=F3B7CE&text_color=FFF4E6&hide=css,html" alt="Brintha's top languages" />
+  <a href="https://github.com/brintha1926?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC_REPOS-EXPLORE-D96C9D?style=for-the-badge&logo=github&logoColor=FFF4E6&labelColor=2B1B26" alt="Explore Brintha's repositories" /></a>
+  <a href="https://github.com/brintha1926/bambivault/commits/main"><img src="https://img.shields.io/github/last-commit/brintha1926/bambivault?style=for-the-badge&logo=git&label=LATEST%20BAMBIVAULT%20COMMIT&labelColor=2B1B26&color=F3B7CE" alt="Latest BambiVault commit" /></a>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=brintha1926&hide_border=true&background=2B1B26&stroke=6F455D&ring=D96C9D&fire=F3B7CE&currStreakLabel=F3B7CE&sideLabels=FFF4E6&dates=CFAFBE&currStreakNum=FFF4E6&sideNums=FFF4E6&dayLabels=CFAFBE" alt="GitHub contribution streak" /></p>
+```bash
+$ git log --oneline --focus
+> production security platform development
+> automation and AI workflow engineering
+> networking, infrastructure and university projects
 
-<p align="center"><img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=brintha1926&hide_border=true&bg_color=2B1B26&title_color=F3B7CE&color=FFF4E6&line=D96C9D&point=F3B7CE&area=true&area_color=B85C83" alt="GitHub activity graph" /></p>
+$ open contributions
+> github.com/brintha1926
+```
 
 </details>
 
