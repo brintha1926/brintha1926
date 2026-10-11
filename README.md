@@ -1,4 +1,4 @@
-<!-- BRINTHA.OS · Level-up dashboard edition -->
+<!-- Brintha Subramoney · technical profile -->
 
 <p align="center">
   <a href="https://bambivault.com">
@@ -13,22 +13,22 @@
 </p>
 
 <p align="center">
-  <code>FINAL-YEAR IT</code> · <code>AUTOMATION</code> · <code>AI/ML</code> · <code>CYBERSECURITY</code> · <code>INFRASTRUCTURE</code>
+  <code>FRESH IT GRADUATE</code> · <code>AUTOMATION</code> · <code>AI/ML</code> · <code>CYBERSECURITY</code> · <code>INFRASTRUCTURE</code>
 </p>
 
-## `MISSION // ABOUT`
+## `ABOUT`
 
-I'm **Brintha Subramoney**, a final-year Bachelor of Information Technology (Honours) student specialising in Communication & Networking at **Universiti Tunku Abdul Rahman**.
+I'm **Brintha Subramoney**, a fresh **Bachelor of Information Technology (Honours)** graduate specialising in Communication & Networking from **Universiti Tunku Abdul Rahman**. I have completed my studies and am actively looking for opportunities in automation, cybersecurity, cloud/infrastructure or Python-focused roles.
 
 I like the useful middle ground between software, automation and infrastructure: building systems that remove repetitive work, make security signals easier to act on, and turn technical ideas into something people can actually use.
 
 ```text
-CURRENT QUEST   Graduate in September 2026
+STATUS          Fresh graduate · open to work
 CORE FOCUS      Automation · AI/ML · Cybersecurity · Infrastructure
 HOME BASE       Malaysia 🇲🇾
 ```
 
-## `BOSS PROJECT // BAMBIVAULT`
+## `FEATURED PROJECT // BAMBIVAULT`
 
 ### [BambiVault — Password Security & Encrypted Vault Platform](https://bambivault.com)
 
@@ -41,9 +41,9 @@ A production full-stack platform for evaluating password behaviour and security 
 
 `Python` · `Flask` · `scikit-learn` · `pandas` · `PostgreSQL` · `SQLAlchemy` · `JavaScript` · `Tailwind CSS` · `Nginx`
 
-## `PRODUCTION QUESTS // KLK`
+## `PRODUCTION EXPERIENCE`
 
-During my IT Infrastructure internship at **Kuala Lumpur Kepong Berhad**, I:
+During my IT Infrastructure internship, I:
 
 - Delivered **5 production n8n workflows** using Azure AI, Wazuh SIEM, SharePoint, Entra ID and Microsoft Outlook.
 - Automated email threat classification, O365 file-access alerts, abnormal security thresholds, website uptime checks and SSL-expiry notifications.
@@ -52,7 +52,7 @@ During my IT Infrastructure internship at **Kuala Lumpur Kepong Berhad**, I:
 - Authored a Microsoft Purview administration guide adopted as the department standard.
 - Supported AD-to-Juniper migration, VLAN trunking and day-to-day Microsoft 365 administration.
 
-## `LOADOUT // TECH STACK`
+## `TECHNICAL STACK`
 
 | Zone | Tools |
 |:--|:--|
@@ -63,22 +63,13 @@ During my IT Infrastructure internship at **Kuala Lumpur Kepong Berhad**, I:
 | **Web & Data** | Flask, JavaScript, PostgreSQL, SQLAlchemy, Tailwind CSS |
 | **Languages** | Python, JavaScript, C++, Java, C#, SQL, Bash |
 
-## `ACHIEVEMENTS // UNLOCKED`
-
-- **President's List** — 4.0 semester GPA
-- **Dean's List** — 3.67 semester GPA
-- **MSEF Siyuan Full Scholarship**
-- **China Ambassador Scholarship**
-- **UTAR Ambassador**
-- Cisco Networking Academy: Introduction to Networks; Switching, Routing & Wireless; Enterprise Networking, Security & Automation
-
-## `SIDE QUESTS // COMMUNITY`
+## `COMMUNITY`
 
 - Student emcee and committee member for UTAR-FICT's intervarsity **The Amazing Cyberhunt** CTF.
 - Volunteer coding instructor for rural SJK(T) students in Perak.
 - Building and documenting projects that connect coursework with real operational problems.
 
-## `PROJECT INVENTORY`
+## `PROJECTS`
 
 | Project | What it is | Launch |
 |:--|:--|:--:|
@@ -87,9 +78,4 @@ During my IT Infrastructure internship at **Kuala Lumpur Kepong Berhad**, I:
 | **GROUP9** | Collaborative academic repository | [Code](https://github.com/brintha1926/GROUP9) |
 | **Personal Site** | GitHub Pages foundation | [Code](https://github.com/brintha1926/brintha1926.github.io) |
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brintha1926&label=PROFILE+VISITS&color=ef73ff&style=flat-square&labelColor=120b1c" alt="Profile visit counter" />
-  <img src="https://img.shields.io/github/followers/brintha1926?label=FOLLOWERS&style=flat-square&color=ffb5d6&labelColor=120b1c&logo=github" alt="GitHub followers" />
-</p>
-
-<p align="center"><sub><code>BRINTHA.OS</code> // keep learning · keep shipping · keep it secure 🌸</sub></p>
+<p align="center"><sub><code>BRINTHA.DEV</code> // automate the routine · secure the important · ship what works</sub></p>

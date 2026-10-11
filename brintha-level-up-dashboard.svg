@@ -1,48 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1540" viewBox="0 0 1200 1540" role="img" aria-labelledby="title desc">
-  <title id="title">Brintha Subramoney — Level Up Dashboard</title>
-  <desc id="desc">A dark plum and neon pink dashboard presenting Brintha's education, BambiVault project, production automation work, cybersecurity experience, skills and academic recognition.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 1200 980" role="img" aria-labelledby="title desc">
+  <title id="title">Brintha Subramoney — technical profile dashboard</title>
+  <desc id="desc">A concise dark technical dashboard for a fresh information technology graduate focused on automation, cybersecurity, cloud infrastructure and Python engineering.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080611"/><stop offset=".55" stop-color="#110a1e"/><stop offset="1" stop-color="#07060d"/></linearGradient>
-    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#191229"/><stop offset="1" stop-color="#100b1d"/></linearGradient>
-    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffb5d6"/><stop offset=".5" stop-color="#ef73ff"/><stop offset="1" stop-color="#b96cff"/></linearGradient>
-    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd9e9"/><stop offset=".48" stop-color="#ef73ff"/><stop offset="1" stop-color="#8c52ff"/></linearGradient>
-    <radialGradient id="halo"><stop offset="0" stop-color="#ef73ff" stop-opacity=".42"/><stop offset="1" stop-color="#ef73ff" stop-opacity="0"/></radialGradient>
-    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="9" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000" flood-opacity=".45"/></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080711"/><stop offset=".62" stop-color="#100a1b"/><stop offset="1" stop-color="#08070d"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171123"/><stop offset="1" stop-color="#0f0b18"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffb4d4"/><stop offset=".52" stop-color="#ea77f8"/><stop offset="1" stop-color="#a96cff"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".42"/></filter>
     <style>
-      .sans{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.cream{fill:#fff6ec}.muted{fill:#b8acc7}.pink{fill:#ff9fce}.purple{fill:#d783ff}.label{font-size:13px;font-weight:700;letter-spacing:2.2px}.tiny{font-size:12px}.small{font-size:15px}.body{font-size:17px}.value{font-size:27px;font-weight:800}.h2{font-size:23px;font-weight:800}.line{stroke:#3a2b51;stroke-width:1}.grid{stroke:#2b203c;stroke-width:1}
+      .sans{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.cream{fill:#fff7ef}.muted{fill:#b9afc6}.pink{fill:#ff9fca}.purple{fill:#d287ff}.label{font-size:13px;font-weight:700;letter-spacing:2px}.tiny{font-size:12px}.small{font-size:15px}.body{font-size:17px}.h2{font-size:22px;font-weight:800}.value{font-size:28px;font-weight:850}.line{stroke:#382a4b;stroke-width:1}.node{fill:#110c1a;stroke:#5a3e70;stroke-width:1.5}
     </style>
   </defs>
-  <rect width="1200" height="1540" rx="38" fill="url(#bg)"/><circle cx="1020" cy="100" r="260" fill="url(#halo)" opacity=".36"/><circle cx="120" cy="1320" r="270" fill="url(#halo)" opacity=".2"/>
-  <g filter="url(#soft)"><rect x="42" y="34" width="1116" height="78" rx="27" fill="#110c1d" stroke="#59406f" stroke-width="1.5"/><circle cx="78" cy="73" r="12" fill="url(#pink)" filter="url(#glow)"/><text x="104" y="80" class="sans cream" font-size="21" font-weight="850">BRINTHA // LEVEL-UP CONSOLE</text><text x="623" y="79" class="mono muted small">AUTOMATION  /  AI  /  CYBERSECURITY</text><rect x="1014" y="55" width="112" height="36" rx="18" fill="#20132e" stroke="#ef73ff"/><circle cx="1037" cy="73" r="5" fill="#8dffca"/><text x="1052" y="78" class="mono cream tiny" font-weight="700">ONLINE</text></g>
-  <text x="52" y="166" class="mono pink label">PLAYER PROFILE // 01</text><text x="52" y="222" class="sans cream" font-size="46" font-weight="900">BUILD. AUTOMATE. SECURE.</text><text x="52" y="252" class="sans muted body">Turning operational problems into practical workflows, secure systems and production-ready software.</text>
-  <g filter="url(#soft)">
-    <rect x="42" y="286" width="694" height="330" rx="28" fill="url(#panel)" stroke="#38274e"/><rect x="64" y="308" width="650" height="4" rx="2" fill="url(#pink)" opacity=".75"/>
-    <circle cx="182" cy="422" r="86" fill="#0b0812" stroke="url(#ring)" stroke-width="8"/><circle cx="182" cy="422" r="66" fill="#2a1838"/><path d="M143 453c6-35 25-53 39-53s34 18 40 53v20h-79z" fill="#f7b9d4"/><circle cx="182" cy="374" r="32" fill="#f6c8b4"/><path d="M149 378c2-36 17-50 36-50 22 0 37 17 34 53-12-12-24-19-39-20-11 9-19 14-31 17z" fill="#24152e"/><path d="M151 370c8-7 17-12 29-12 17 0 28 8 38 20" fill="none" stroke="#3d224b" stroke-width="6" stroke-linecap="round"/><circle cx="171" cy="377" r="2.5" fill="#30202d"/><circle cx="194" cy="377" r="2.5" fill="#30202d"/><path d="M174 392q8 7 16 0" fill="none" stroke="#bd7181" stroke-width="2.5" stroke-linecap="round"/><circle cx="182" cy="422" r="75" fill="none" stroke="#ffb5d6" stroke-width="1" stroke-dasharray="4 8" opacity=".6"/>
-    <text x="290" y="355" class="mono pink label">IDENTITY VERIFIED</text><text x="290" y="397" class="sans cream" font-size="31" font-weight="850">Brintha Subramoney</text><text x="290" y="429" class="sans muted small">Final-year IT · Communication &amp; Networking</text><line x1="290" y1="451" x2="680" y2="451" class="line"/>
-    <text x="290" y="482" class="mono muted tiny">UNIVERSITY</text><text x="430" y="482" class="sans cream small" font-weight="650">UTAR · Malaysia</text><text x="290" y="517" class="mono muted tiny">CURRENT XP</text><text x="430" y="517" class="sans cream small" font-weight="650">CGPA 3.50</text><text x="290" y="552" class="mono muted tiny">NEXT LEVEL</text><text x="430" y="552" class="sans cream small" font-weight="650">Graduate · Sep 2026</text><rect x="290" y="574" width="390" height="10" rx="5" fill="#2b1d3c"/><rect x="290" y="574" width="322" height="10" rx="5" fill="url(#pink)"/>
+  <rect width="1200" height="980" rx="34" fill="url(#bg)"/>
+  <g opacity=".17" stroke="#8a62a3"><path d="M0 120H1200M0 300H1200M0 520H1200M0 760H1200"/><path d="M160 0V980M420 0V980M760 0V980M1040 0V980"/></g>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="34" width="1116" height="78" rx="24" fill="#100c19" stroke="#59406f"/>
+    <rect x="66" y="59" width="24" height="24" rx="6" fill="url(#accent)"/>
+    <text x="106" y="80" class="sans cream" font-size="22" font-weight="850">BRINTHA SUBRAMONEY</text>
+    <text x="620" y="79" class="mono muted small">AUTOMATION / SECURITY / CLOUD / PYTHON</text>
+    <rect x="987" y="54" width="139" height="38" rx="19" fill="#1b1227" stroke="#ef77f8"/>
+    <circle cx="1009" cy="73" r="5" fill="#7effbd"/>
+    <text x="1024" y="78" class="mono cream tiny" font-weight="700">OPEN TO WORK</text>
   </g>
-  <g filter="url(#soft)">
-    <rect x="758" y="286" width="400" height="330" rx="28" fill="url(#panel)" stroke="#38274e"/><text x="786" y="330" class="sans cream h2">PRODUCTION IMPACT</text><text x="786" y="354" class="mono muted tiny">REAL WORK · NO FICTIONAL STATS</text><line x1="786" y1="374" x2="1126" y2="374" class="line"/>
-    <text x="790" y="420" class="sans cream value">5</text><text x="832" y="417" class="sans muted small">production n8n workflows</text><rect x="790" y="436" width="330" height="8" rx="4" fill="#2a1d3b"/><rect x="790" y="436" width="286" height="8" rx="4" fill="url(#pink)"/>
-    <text x="790" y="486" class="sans cream value">20+</text><text x="862" y="483" class="sans muted small">devices monitored via PRTG</text><rect x="790" y="502" width="330" height="8" rx="4" fill="#2a1d3b"/><rect x="790" y="502" width="236" height="8" rx="4" fill="url(#pink)"/>
-    <text x="790" y="552" class="sans cream value">5</text><text x="832" y="549" class="sans muted small">vendors technically evaluated</text><rect x="790" y="568" width="330" height="8" rx="4" fill="#2a1d3b"/><rect x="790" y="568" width="268" height="8" rx="4" fill="url(#pink)"/>
+
+  <text x="52" y="169" class="mono pink label">PROFILE // FRESH IT GRADUATE</text>
+  <text x="52" y="219" class="sans cream" font-size="44" font-weight="900">I BUILD RELIABLE, SECURE SYSTEMS.</text>
+  <text x="52" y="250" class="sans muted body">Information Technology (Hons), Communication &amp; Networking · UTAR · Malaysia</text>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="284" width="530" height="236" rx="24" fill="url(#panel)" stroke="#3d2c50"/>
+    <text x="70" y="326" class="sans cream h2">SYSTEM PROFILE</text>
+    <text x="70" y="351" class="mono muted tiny">STATUS AND CORE DIRECTION</text>
+    <line x1="70" y1="372" x2="544" y2="372" class="line"/>
+    <text x="70" y="408" class="mono pink tiny">STATUS</text><text x="180" y="408" class="sans cream small" font-weight="700">Studies completed · seeking opportunities</text>
+    <text x="70" y="444" class="mono pink tiny">DEGREE</text><text x="180" y="444" class="sans cream small" font-weight="700">Bachelor of Information Technology (Hons)</text>
+    <text x="70" y="480" class="mono pink tiny">CGPA</text><text x="180" y="480" class="sans cream small" font-weight="700">3.50</text>
   </g>
-  <g filter="url(#soft)">
-    <rect x="42" y="640" width="1116" height="304" rx="28" fill="url(#panel)" stroke="#4a2f63"/><text x="70" y="683" class="mono pink label">BOSS PROJECT // BAMBIVAULT</text><text x="70" y="731" class="sans cream" font-size="34" font-weight="900">PASSWORD SECURITY + ENCRYPTED VAULT</text><text x="70" y="762" class="sans muted body">A production full-stack platform for password behaviour, breach awareness and safer credential habits.</text>
-    <rect x="70" y="793" width="496" height="116" rx="18" fill="#0d0916" stroke="#302043"/><text x="94" y="825" class="mono purple tiny">ML PIPELINE</text><text x="94" y="867" class="sans cream value">14.3M</text><text x="202" y="865" class="sans muted small">real-world passwords</text><text x="94" y="893" class="sans muted tiny">10 engineered features · Random Forest · leakage corrected</text>
-    <rect x="586" y="793" width="546" height="116" rx="18" fill="#0d0916" stroke="#302043"/><text x="610" y="825" class="mono purple tiny">SECURITY SYSTEMS</text><text x="610" y="859" class="sans cream small" font-weight="750">HIBP k-anonymity · encrypted vault · TOTP</text><text x="610" y="886" class="sans muted tiny">Protected exports · anonymised analytics · hardened deployment</text>
-    <g transform="translate(1038 699)"><circle cx="0" cy="0" r="52" fill="#1f1130" stroke="url(#ring)" stroke-width="3"/><path d="M-17-3v-14a17 17 0 0 1 34 0v14M-24-3h48v38h-48z" fill="none" stroke="#ffb5d6" stroke-width="6" stroke-linejoin="round"/><circle cx="0" cy="14" r="5" fill="#ef73ff"/><path d="M0 18v8" stroke="#ef73ff" stroke-width="4"/></g>
+
+  <g filter="url(#shadow)">
+    <rect x="594" y="284" width="564" height="236" rx="24" fill="url(#panel)" stroke="#3d2c50"/>
+    <text x="622" y="326" class="sans cream h2">PRODUCTION EXPERIENCE</text>
+    <text x="622" y="351" class="mono muted tiny">VERIFIABLE DELIVERY DURING IT INFRASTRUCTURE INTERNSHIP</text>
+    <line x1="622" y1="372" x2="1130" y2="372" class="line"/>
+    <text x="622" y="421" class="sans cream value">5</text><text x="662" y="418" class="sans muted small">production automation workflows</text>
+    <text x="622" y="466" class="sans cream value">20+</text><text x="694" y="463" class="sans muted small">infrastructure devices monitored</text>
+    <text x="622" y="511" class="sans cream value">5</text><text x="662" y="508" class="sans muted small">vendor solutions technically evaluated</text>
   </g>
-  <g filter="url(#soft)">
-    <rect x="42" y="968" width="530" height="320" rx="28" fill="url(#panel)" stroke="#38274e"/><text x="70" y="1011" class="sans cream h2">SKILL MATRIX</text><text x="70" y="1035" class="mono muted tiny">TOOLS USED ACROSS PROJECTS + INTERNSHIP</text>
-    <g class="sans small"><text x="70" y="1083" class="cream">Python · Flask · ML</text><rect x="298" y="1070" width="234" height="11" rx="5.5" fill="#2a1d3b"/><rect x="298" y="1070" width="211" height="11" rx="5.5" fill="url(#pink)"/><text x="70" y="1127" class="cream">n8n · Azure AI</text><rect x="298" y="1114" width="234" height="11" rx="5.5" fill="#2a1d3b"/><rect x="298" y="1114" width="218" height="11" rx="5.5" fill="url(#pink)"/><text x="70" y="1171" class="cream">Wazuh · Security</text><rect x="298" y="1158" width="234" height="11" rx="5.5" fill="#2a1d3b"/><rect x="298" y="1158" width="189" height="11" rx="5.5" fill="url(#pink)"/><text x="70" y="1215" class="cream">M365 · SharePoint</text><rect x="298" y="1202" width="234" height="11" rx="5.5" fill="#2a1d3b"/><rect x="298" y="1202" width="199" height="11" rx="5.5" fill="url(#pink)"/><text x="70" y="1259" class="cream">Cisco · Linux · PRTG</text><rect x="298" y="1246" width="234" height="11" rx="5.5" fill="#2a1d3b"/><rect x="298" y="1246" width="181" height="11" rx="5.5" fill="url(#pink)"/></g>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="544" width="1116" height="242" rx="24" fill="url(#panel)" stroke="#4b3260"/>
+    <text x="70" y="587" class="mono pink label">FEATURED SYSTEM // BAMBIVAULT</text>
+    <text x="70" y="626" class="sans cream" font-size="29" font-weight="850">PASSWORD ANALYSIS + ENCRYPTED CREDENTIAL MANAGEMENT</text>
+    <text x="70" y="655" class="sans muted small">Production Flask platform combining explainable password signals, privacy-preserving breach checks and vault security.</text>
+    <g transform="translate(92 710)">
+      <rect x="0" y="0" width="154" height="50" rx="12" class="node"/><text x="77" y="30" text-anchor="middle" class="mono cream tiny">WEB CLIENT</text>
+      <path d="M154 25H196" stroke="#d980f4" stroke-width="2"/><path d="M188 18l10 7-10 7" fill="none" stroke="#d980f4" stroke-width="2"/>
+      <rect x="198" y="0" width="154" height="50" rx="12" class="node"/><text x="275" y="30" text-anchor="middle" class="mono cream tiny">FLASK API</text>
+      <path d="M352 25H394" stroke="#d980f4" stroke-width="2"/><path d="M386 18l10 7-10 7" fill="none" stroke="#d980f4" stroke-width="2"/>
+      <rect x="396" y="0" width="154" height="50" rx="12" class="node"/><text x="473" y="30" text-anchor="middle" class="mono cream tiny">ML + RULES</text>
+      <path d="M550 25H592" stroke="#d980f4" stroke-width="2"/><path d="M584 18l10 7-10 7" fill="none" stroke="#d980f4" stroke-width="2"/>
+      <rect x="594" y="0" width="154" height="50" rx="12" class="node"/><text x="671" y="30" text-anchor="middle" class="mono cream tiny">HIBP RANGE API</text>
+      <path d="M748 25H790" stroke="#d980f4" stroke-width="2"/><path d="M782 18l10 7-10 7" fill="none" stroke="#d980f4" stroke-width="2"/>
+      <rect x="792" y="0" width="196" height="50" rx="12" class="node"/><text x="890" y="30" text-anchor="middle" class="mono cream tiny">POSTGRES + VAULT</text>
+    </g>
   </g>
-  <g filter="url(#soft)">
-    <rect x="594" y="968" width="564" height="320" rx="28" fill="url(#panel)" stroke="#38274e"/><text x="622" y="1011" class="sans cream h2">AUTOMATION LOADOUT</text><text x="622" y="1035" class="mono muted tiny">5 PRODUCTION WORKFLOWS · KLK INFRASTRUCTURE</text><line x1="638" y1="1229" x2="1118" y2="1229" class="line"/><line x1="638" y1="1080" x2="638" y2="1229" class="line"/><g class="grid" opacity=".8"><line x1="638" y1="1192" x2="1118" y2="1192"/><line x1="638" y1="1155" x2="1118" y2="1155"/><line x1="638" y1="1118" x2="1118" y2="1118"/><line x1="638" y1="1081" x2="1118" y2="1081"/></g><g fill="url(#pink)"><rect x="674" y="1174" width="60" height="55" rx="12"/><rect x="766" y="1140" width="60" height="89" rx="12"/><rect x="858" y="1100" width="60" height="129" rx="12"/><rect x="950" y="1128" width="60" height="101" rx="12"/><rect x="1042" y="1070" width="60" height="159" rx="12"/></g><g class="mono muted tiny" text-anchor="middle"><text x="704" y="1254">MAIL</text><text x="796" y="1254">WAZUH</text><text x="888" y="1254">O365</text><text x="980" y="1254">SSL</text><text x="1072" y="1254">ALERTS</text></g>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="810" width="348" height="124" rx="22" fill="url(#panel)" stroke="#3d2c50"/>
+    <text x="68" y="850" class="sans cream h2">AUTOMATION</text><text x="68" y="878" class="mono pink tiny">n8n · AZURE AI · M365</text><text x="68" y="907" class="sans muted small">Operational workflows and alerts</text>
+    <rect x="414" y="810" width="348" height="124" rx="22" fill="url(#panel)" stroke="#3d2c50"/>
+    <text x="440" y="850" class="sans cream h2">SECURITY</text><text x="440" y="878" class="mono pink tiny">WAZUH · HIBP · TOTP · CSP</text><text x="440" y="907" class="sans muted small">Controls backed by observable evidence</text>
+    <rect x="786" y="810" width="372" height="124" rx="22" fill="url(#panel)" stroke="#3d2c50"/>
+    <text x="812" y="850" class="sans cream h2">ENGINEERING</text><text x="812" y="878" class="mono pink tiny">PYTHON · FLASK · POSTGRESQL</text><text x="812" y="907" class="sans muted small">Tested, documented, production deployed</text>
   </g>
-  <g filter="url(#soft)">
-    <rect x="42" y="1312" width="1116" height="166" rx="28" fill="url(#panel)" stroke="#38274e"/><text x="70" y="1353" class="mono pink label">ACHIEVEMENT UNLOCKED</text><g class="sans"><circle cx="104" cy="1415" r="27" fill="#2a1739" stroke="#e580ff"/><text x="104" y="1423" text-anchor="middle" class="cream" font-size="23">★</text><text x="145" y="1408" class="cream small" font-weight="750">President's List</text><text x="145" y="1431" class="muted tiny">4.0 semester GPA</text><circle cx="382" cy="1415" r="27" fill="#2a1739" stroke="#e580ff"/><text x="382" y="1423" text-anchor="middle" class="cream" font-size="23">◆</text><text x="423" y="1408" class="cream small" font-weight="750">Dean's List</text><text x="423" y="1431" class="muted tiny">3.67 semester GPA</text><circle cx="632" cy="1415" r="27" fill="#2a1739" stroke="#e580ff"/><text x="632" y="1423" text-anchor="middle" class="cream" font-size="23">✦</text><text x="673" y="1408" class="cream small" font-weight="750">Full Scholarship</text><text x="673" y="1431" class="muted tiny">MSEF Siyuan</text><circle cx="918" cy="1415" r="27" fill="#2a1739" stroke="#e580ff"/><text x="918" y="1423" text-anchor="middle" class="cream" font-size="22">◎</text><text x="959" y="1408" class="cream small" font-weight="750">UTAR Ambassador</text><text x="959" y="1431" class="muted tiny">Leadership + community</text></g>
-  </g>
-  <text x="600" y="1512" text-anchor="middle" class="mono muted tiny">BRINTHA.OS  //  KEEP LEARNING · KEEP SHIPPING · KEEP IT SECURE</text>
+  <text x="600" y="963" text-anchor="middle" class="mono muted tiny">BRINTHA.DEV // AUTOMATE THE ROUTINE · SECURE THE IMPORTANT · SHIP WHAT WORKS</text>
 </svg>
